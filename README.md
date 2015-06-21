@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 title: "README.md"
 output: html_document
@@ -157,6 +157,4 @@ write.table(tidydata, file = "tidydata.txt", row.name = FALSE)
 ```
 
 ##Done! :)
-=======
-# GETTING_AND_CLEANING_DATA
->>>>>>> origin/master
+
