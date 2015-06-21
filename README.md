@@ -11,7 +11,7 @@ This document will describe step by step how the "run_analysis.R" script works, 
 ##Step 0/A: get data from website (manually).
 
 Please download and unzip manually the data into your working directory for the project from here:
-#https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
 ##Step 0/B: load data into R.
